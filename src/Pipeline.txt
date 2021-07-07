@@ -1,2 +1,2 @@
 Test the pipeline trigger from GITHUB. Why it says No changes?
-Another try. Lets focus on the next steps
+Another try. Lets focus on the next steps....
