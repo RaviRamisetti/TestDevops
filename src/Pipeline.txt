@@ -1,1 +1,1 @@
-Test the pipeline trigger from GITHUB
+Test the pipeline trigger from GITHUB. Why it says No changes?
