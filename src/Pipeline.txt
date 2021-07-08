@@ -1,4 +1,1 @@
-Test the pipeline trigger from GITHUB. Why it says No changes?
-Another try. Lets focus on the next steps....
-Trying Maven Compile
-Installed Maven in Jenkins Machine. Test the pipeline now 
+Demo Time
